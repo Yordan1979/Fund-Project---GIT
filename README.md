@@ -5,3 +5,4 @@ add new text
 add new text1
 add new string
 add new string1
+add new page string
