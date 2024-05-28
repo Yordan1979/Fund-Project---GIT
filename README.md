@@ -6,3 +6,4 @@ add new text1
 add new string
 add new string1
 add new page string
+add new HTML
